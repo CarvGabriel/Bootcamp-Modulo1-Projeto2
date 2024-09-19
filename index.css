@@ -20,6 +20,10 @@ header{
     font-size: 14px;
     padding: 16px;
 }
+footer{
+    font-size: 12px;
+    padding-top: 10px;
+}
 
 h1{
     color: #FDC023;
@@ -35,6 +39,10 @@ h2{
     border-radius: 10px;
     width: 30%;
     margin: 20px;
+}
+.option-title{
+    font-size: 20px;
+    padding: 20px;
 }
 
 .flex-container{
@@ -59,4 +67,8 @@ button{
     border-radius: 6px;
     border: 0;
     width: 80%;
+}
+
+object{
+    width: 70%;
 }
